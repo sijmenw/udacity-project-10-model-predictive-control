@@ -28,14 +28,6 @@ You will neeed to install
 [Leiningen](https://leiningen.org/),
 a Clojure build tool.
 
-I also recommend [VS Code](https://code.visualstudio.com/) with the
-[Calva extension](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
-as your first Clojure text editor because it is very easy to install
-and use. Later, you can explore more advanced options like
-[Cursive (IntelliJ)](https://cursive-ide.com/),
-[CIDER (Emacs)](https://github.com/clojure-emacs/cider),
-or [Vim](https://github.com/tpope/vim-fireplace).
-
 ## Usage
 You can run the code with the following command. You should also run
 [Udacity's term 2 simulator](https://github.com/udacity/self-driving-car-sim/releases)
